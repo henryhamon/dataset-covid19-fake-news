@@ -1,10 +1,14 @@
-## iris-dataset-titanic
+## iris-dataset-covid19-fakenews
 This repository contains a class and data of Titanic passengers in a Global
+
+This dataset was created by Koirala, Abhishek (2021), “COVID-19 Fake News Dataset”,
+Mendeley Data, V1, doi: 10.17632/zwfdmp5syg.1
+
 
 ## Prerequisites
 Make sure you have [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and [Docker desktop](https://www.docker.com/products/docker-desktop) installed.
 
-## Installation 
+## Installation
 
 zpm "install dataset-titanic"
 
@@ -61,4 +65,3 @@ Feel free to delete PackageSample folder and place your ObjectScript classes in 
 [Read more about folder setup for InterSystems ObjectScript](https://community.intersystems.com/post/simplified-objectscript-source-folder-structure-package-manager)
 
 The script in Installer.cls will import everything you place under /src into IRIS.
-
