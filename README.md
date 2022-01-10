@@ -4,7 +4,9 @@
 This repository contains a class and data of a collection of true and fake news related to COVID-19.
 The dataset consists of news between the period of December 2019 to July 2020.
 
+## License 
 
+[CC BY 4.0 license](https://github.com/henryhamon/dataset-covid19-fake-news/blob/master/CC-BY-4.0)
 
 This dataset was created by Koirala, Abhishek (2021), “COVID-19 Fake News Dataset”,
 Mendeley Data, V1, doi: 10.17632/zwfdmp5syg.1
